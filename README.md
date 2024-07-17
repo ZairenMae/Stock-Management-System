@@ -1,4 +1,5 @@
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/31a6c4d8-9fc7-4f16-a533-809baabdeef6)
+
 
 Stock Management System with Python Tkinter GUI and MySQL Database Introduction The Stock Management System is a Python application with a graphical user interface (GUI) built using Tkinter. It allows users to efficiently manage and track inventory. This system utilizes a MySQL database to store and retrieve information about items, their quantities, and other relevant data.
 
